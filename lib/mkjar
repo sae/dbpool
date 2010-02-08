@@ -1,0 +1,4 @@
+cd ../classes
+/opt/Java/JDK/bin/jar -cf dbpool.jar kz/kkb/dbpool/*.*
+mv dbpool.jar ../lib
+cd ../lib
